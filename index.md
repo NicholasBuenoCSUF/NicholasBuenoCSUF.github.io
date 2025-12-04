@@ -6,7 +6,7 @@ This is my home page! My name is Nicholas Bueno and I am a student at [Cal State
 
 My GitHub page is http://github.com/NicholasBuenoCSUF.
 
-### CPSC 120
+### CPSC 120.
 
 Lab 6, Part 2
 This lab reintroduced me to blackjack and in a way, taught me all of the outcomes and possibilities of each hand in blackjack. It mainly served as a good check of understanding of understanding how your code will run before running it as tracking each possible outcome on each turn before continuing was a good exercise to understand each test case. While a bit time consuming, it serves as a good check for understanding before running into further problems later down the line in code.
